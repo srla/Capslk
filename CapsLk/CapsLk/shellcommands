@@ -1,0 +1,2 @@
+To install heroku cli use the following command
+sudo wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
