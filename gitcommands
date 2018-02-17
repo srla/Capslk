@@ -1,0 +1,2 @@
+To clone a project to use a existing repository
+git clone ssh://git@github.com/srla/Capslk.git
